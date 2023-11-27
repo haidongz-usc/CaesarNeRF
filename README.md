@@ -4,19 +4,19 @@
   <p align="center">
     <a style="text-decoration:none" href="https://haidongz-usc.github.io/">
                         Haidong Zhu</a><sup>1,*</sup>
-    ·  
+    &nbsp;&nbsp;
     <a style="text-decoration:none" href="https://www.tianyuding.com/">
                         Tianyu Ding</a><sup>2,*,&dagger;</sup>
-    ·
+    &nbsp;&nbsp;
     <a style="text-decoration:none" href="https://scholar.google.com/citations?user=2BahjdkAAAAJ&hl=en">
                        Tianyi Chen</a><sup>2</sup>
-    ·
+    &nbsp;&nbsp;
     <a style="text-decoration:none" href="https://www.microsoft.com/applied-sciences/people/ilya-zharkov">
                     Ilya Zharkov</a><sup>2</sup>
-    ·
+    &nbsp;&nbsp;
     <a style="text-decoration:none" href="https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/">
                      Ram Nevatia</a><sup>1</sup>
-    ·
+    &nbsp;&nbsp;
     <a style="text-decoration:none" href="https://sites.google.com/site/lumingliangshomepage/">
                      Luming Liang</a><sup>2,&dagger;</sup>
     <br>
