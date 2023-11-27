@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h2 align="center"><b>CaesarNeRF</b>: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering</h2>
+  <h2 align="center"><b>CaesarNeRF</b>: Calibrated Semantic Representation <br>for Few-shot Generalizable Neural Rendering</h2>
   <p align="center">
     <a style="text-decoration:none" href="https://haidongz-usc.github.io/">
                         Haidong Zhu</a><sup>1,*</sup>
