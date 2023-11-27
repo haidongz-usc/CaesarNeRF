@@ -23,7 +23,7 @@
     <sup>1</sup>University of Southern California &nbsp;&nbsp;&nbsp; <sup>2</sup>Microsoft
     <br>
     </br>
-  <a href="https://haidongz-usc.github.io/project/caesarnerf"><strong>Project Page</strong></a> | <a href="https://haidongz-usc.github.io/project/caesarnerf"><strong>Paper</strong></a>
+  <a href="https://haidongz-usc.github.io/project/caesarnerf"><strong>Project Page</strong></a> | <a href="https://haidongz-usc.github.io/project/caesarnerf"><strong>Paper</strong></a> | <a href="https://haidongz-usc.github.io/project/pdf/caesar_supp.pdf"><strong>Supplementary Material</strong></a>
   </p>
 </p>
 <div align="center">
@@ -36,7 +36,7 @@ Generalizability and few-shot learning are key challenges in Neural Radiance Fie
 ## Citing
 If you find our work helpful, please feel free to use the following BibTex entry:
 ```BibTeX
-@article{TODO,<br>
+@article{TODO,
     author = {TODO},
     title  = {TODO},
     joural = {ArXiv},
