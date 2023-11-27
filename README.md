@@ -23,7 +23,7 @@
     <sup>1</sup>University of Southern California &nbsp;&nbsp;&nbsp; <sup>2</sup>Microsoft
     <br>
     </br>
-  <a href="https://www.tianyuding.com/"><strong>Project Page</strong></a> | <a href="https://www.tianyuding.com/"><strong>Paper</strong></a>
+  <a href="https://haidongz-usc.github.io/project/caesarnerf"><strong>Project Page</strong></a> | <a href="https://haidongz-usc.github.io/project/caesarnerf"><strong>Paper</strong></a>
   </p>
 </p>
 <div align="center">
