@@ -24,10 +24,11 @@
     <br>
     </br>
   </p>
-    </p>
+</p>
+  <a href="https://www.tianyuding.com/"><strong>Project Page</strong></a> | <a href="https://www.tianyuding.com/"><strong>Paper</strong></a>
 <div align="center">
-  <img src="./teaser.png" alt=""padding-top: 15px; margin-bottom: -3px;">Novel view synthesis for novel scenes using <span style="color: #FF0000;"><strong>ONE</strong></span> reference view on Shiny, LLFF, and MVImgNet (top to bottom).
-          Each pair of images corresponds to the results from GNT (left) and CaesarNeRF (right).</p>
+  <br>
+  <img src="./teaser.png" alt="Novel view synthesis for novel scenes using <span style="color: #FF0000;"><strong>ONE</strong></span> reference view on Shiny, LLFF, and MVImgNet (top to bottom). Each pair of images corresponds to the results from GNT (left) and CaesarNeRF (right)."
 </div>
 
 Generalizability and few-shot learning are key challenges in Neural Radiance Fields (NeRF), often due to the lack of a holistic understanding in pixel-level rendering. We introduce CaesarNeRF, an end-to-end approach that leverages scene-level <strong>CA</strong>librat<strong>E</strong>d <strong>S</strong>em<strong>A</strong>ntic <strong>R</strong>epresentation along with pixel-level representations to advance few-shot, generalizable neural rendering, facilitating a holistic understanding without compromising high-quality details. CaesarNeRF explicitly models pose differences of reference views to combine scene-level semantic representations, providing a calibrated holistic understanding. This calibration process aligns various viewpoints with precise location and is further enhanced by sequential refinement to capture varying details. Extensive experiments on public datasets, including LLFF, Shiny, mip-NeRF 360, and MVImgNet, show that CaesarNeRF delivers state-of-the-art performance across varying numbers of reference views, proving effective even with a single reference image.
