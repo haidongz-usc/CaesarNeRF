@@ -23,7 +23,7 @@
     <sup>1</sup>University of Southern California &nbsp;&nbsp;&nbsp; <sup>2</sup>Microsoft
     <br>
     </br>
-  <a href="https://haidongz-usc.github.io/project/caesarnerf"><strong>Project Page</strong></a> | <a href="https://arxiv.org/pdf/2311.15510.pdf"><strong>Paper</strong></a> | <a href="https://haidongz-usc.github.io/project/pdf/caesar_supp.pdf"><strong>Supplementary Material</strong></a>
+  <a href="https://haidongz-usc.github.io/project/caesarnerf"><strong>Project Page</strong></a> | <a href="https://arxiv.org/abs/2311.15510"><strong>Paper</strong></a> | <a href="https://haidongz-usc.github.io/project/pdf/caesar_supp.pdf"><strong>Supplementary Material</strong></a>
   </p>
 </p>
 <div align="center">
