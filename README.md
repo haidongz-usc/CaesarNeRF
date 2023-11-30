@@ -39,7 +39,7 @@ If you find our work helpful, please feel free to use the following BibTex entry
 @article{zhu2023caesarnerf,
     author = {Zhu, Haidong and Ding, Tianyu and Chen, Tianyi and Zharkov, Ilya and Nevatia, Ram and Liang, Luming},
     title  = {CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering},
-    joural = {ArXiv},
+    journal={arXiv preprint arXiv:2311.15510},
     year   = {2023},
 }
 ```
