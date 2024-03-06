@@ -32,7 +32,31 @@
 </div>
 
 Generalizability and few-shot learning are key challenges in Neural Radiance Fields (NeRF), often due to the lack of a holistic understanding in pixel-level rendering. We introduce CaesarNeRF, an end-to-end approach that leverages scene-level <strong>CA</strong>librat<strong>E</strong>d <strong>S</strong>em<strong>A</strong>ntic <strong>R</strong>epresentation along with pixel-level representations to advance few-shot, generalizable neural rendering, facilitating a holistic understanding without compromising high-quality details. CaesarNeRF explicitly models pose differences of reference views to combine scene-level semantic representations, providing a calibrated holistic understanding. This calibration process aligns various viewpoints with precise location and is further enhanced by sequential refinement to capture varying details. Extensive experiments on public datasets, including LLFF, Shiny, mip-NeRF 360, and MVImgNet, show that CaesarNeRF delivers state-of-the-art performance across varying numbers of reference views, proving effective even with a single reference image.
- 
+
+## Data preparation
+
+Please follow original setting of [GNT](https://github.com/VITA-Group/GNT) to prepare the data.
+
+## Usage (under construction)
+
+Please prepare the environment as follows.
+
+```
+conda create -n caesarnerf python=3.8
+conda activate caesarnerf
+pip install -r requirement.txt
+```
+
+After setting up the environment and perparing the data, you can train and test the code following [GNT](https://github.com/VITA-Group/GNT). To reproduce our numbers in the table for LLFF test set with 1 view, please download our models from `https://drive.google.com/file/d/1kwSTKKlcSgauG8Jz0lny32-EJZHiw9Mk/view?usp=sharing` and use the following command
+
+```
+CUDA_VISIBLE_DEVICES=${gpu_id} python eval.py --config configs/caesarnerf_full.txt --expname caesarnerf_full --chunk_size 500 --run_val --N_samples 192 --num_source_views 1
+```
+
+Note that there might be some small discrepancy due to some environment differences, while the performance should be consistent in general. 
+
+We are still constructing this repo and cleaning the code. If you have any question please feel free to contact us.
+
 ## Citing
 If you find our work helpful, please feel free to use the following BibTex entry:
 ```BibTeX
